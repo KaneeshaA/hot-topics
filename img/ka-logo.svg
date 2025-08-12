@@ -1,0 +1,10 @@
+<svg width="160" height="48" viewBox="0 0 160 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Kaneesha Andeso logo">
+  <g stroke="#1C1D22" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M10 6 v36"></path>
+    <path d="M10 24 L32 6"></path>
+    <path d="M10 24 L34 42"></path>
+    <path d="M56 42 L72 6 L88 42"></path>
+    <path d="M62 28 H82"></path>
+  </g>
+  <path d="M6 46 H154" stroke="#D9728E" stroke-width="3" stroke-linecap="round"></path>
+</svg>
